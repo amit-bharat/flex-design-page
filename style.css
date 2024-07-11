@@ -103,3 +103,31 @@
     height: 100px;
     margin-bottom: 10px;
 }
+
+/* testimonal css */
+.testimonal{
+    background-color: #e5e7eb;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.testimonal .container{
+    color: #1F2937;
+    max-width: 700px;
+}
+.testimonal>.container:first-child{
+    font-size: 26px;
+    color: #1F2937;
+}
+.author{
+    font-size: 12px;
+    font-weight: bold;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+/* action section  */
+
